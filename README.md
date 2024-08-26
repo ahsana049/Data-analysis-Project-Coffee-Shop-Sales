@@ -1,7 +1,4 @@
 # Data-analysis-Project-Coffee-Shop-Sales
-Great! Based on the information you’ve provided, here’s a draft README file for your GitHub repository:
-
----
 
 # Data Analysis Of Coffee Shop Sales
 
