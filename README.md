@@ -3,7 +3,7 @@
 ## Description
 
 The primary objective of this project is to analyze retail sales data to gain actionable insights that can enhance the performance of a coffee shop. This analysis leverages various Excel features to provide a comprehensive view of sales performance and identify opportunities for improvement.
-
+Dataset source [https://mavenanalytics.io/data-playground?page=3&pageSize=5]
 ## Features
 
 This project utilizes a range of Excel features and techniques, including:
